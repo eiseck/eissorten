@@ -20,3 +20,5 @@ npm run dev
 ## Eissorten bearbeiten
 
 Die Eissorten kommen automatisch aus dem verknüpften Google Sheet (eine Sorte pro Zeile, erste Spalte).
+
+test
